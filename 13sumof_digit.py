@@ -1,4 +1,4 @@
-#write a program to find the digit of number accepted from the user.
+#write a program to find the sum  digit of number accepted from the user.
 num=input("ENter the number ")
 sum=0
 for x in (num):
